@@ -47,10 +47,12 @@ margin-right: 40px;
 
 .nav .link:hover{
  font-weight: 700; 
+ color: var(--colroOfTextOfNavBar);
 }    
 .nav .activelink{
      font-weight: 700;
      margin-right: 40px;
+     color: var(--colroOfTextOfNavBar);
  }
  
  #AboutBanner .countainer{
